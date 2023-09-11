@@ -7,7 +7,7 @@ const First = () => {
     <div
       className={`${styles.first} container margin-sections `}
       data-aos="zoom-out-down">
-      <p className="paragraph">March 22, 2022</p>
+      <p className="paragraph">September 15, 2023</p>
       <h2>How to Modify any Program to Improve Your Weakness</h2>
       <div>
         <h4>Fitness</h4>

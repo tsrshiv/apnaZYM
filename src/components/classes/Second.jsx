@@ -19,37 +19,47 @@ const Second = () => {
         <div data-aos="fade-right">
           <img src={photo1} alt="" />
           <h3>Pilates Training</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+          <p>Pilates training promotes core strength, flexibility, 
+            and improved posture through mindful movements. </p>
           <Link to={"/yogaClass"}>Read More</Link>
         </div>
         <div data-aos="fade-right">
           <img src={photo2} alt="" />
           <h3>CrossFit</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+          <p>Pilates crossfit combines the core-focused principles
+             of Pilates with the high-intensity, functional fitness 
+             of CrossFit for a well-rounded workout experience.</p>
           <Link to={"/singleClass"}>Read More</Link>
         </div>
         <div data-aos="fade-right">
           <img src={photo3} alt="" />
           <h3>Aerobic</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+          <p>Aerobic fusion blends the core-strengthening techniques
+             of Pilates with the heart-pumping benefits of aerobic exercise
+              for a balanced and invigorating fitness routine.</p>
           <a href="#">Read More</a>
         </div>
         <div data-aos="fade-right">
           <img src={photo4} alt="" />
           <h3>Yoga As Therapy</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+          <p>Yoga therapy integrates the therapeutic principles 
+            of yoga with the precision and core strengthening of Pilates
+             to promote holistic healing and well-being </p>
           <a href="#">Read More</a>
         </div>
         <div data-aos="fade-right">
           <img src={photo5} alt="" />
           <h3>Boxing</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+          <p>Boxing is a high-intensity sport that challenges both physical 
+            strength and mental agility, offering an exceptional
+             cardiovascular workout and stress relief.</p>
           <a href="#">Read More</a>
         </div>
         <div data-aos="fade-right">
           <img src={photo6} alt="" />
           <h3>Energy Dance</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+          <p>Energy dance is a vibrant and rhythmic fusion of movement and music, 
+            igniting both physical vitality and creative expression.</p>
           <Link to={"/yogaClass"}>Read More</Link>
         </div>
       </div>

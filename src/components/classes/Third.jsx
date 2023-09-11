@@ -9,9 +9,8 @@ const Third = () => {
       <div>
         <h2>Join Our Club</h2>
         <p>
-          It is a long established fact that a reader will be distracted by the
-          readable content of a page when looking at its layout. point of using
-          Lorem Ipsum is
+        Join our gym club today and unlock the door to a healthier,
+         stronger, and more confident you – the journey starts here!
         </p>
         <button onClick={() => navigate("/schedule")}>Start Now</button>
       </div>

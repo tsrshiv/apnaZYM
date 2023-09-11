@@ -15,17 +15,19 @@ const Third = () => {
             Our Gym
           </h2>
           <p>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. point of
-            using Lorem Ipsum is
+          Our gym 'apnaZYM' was born from a passion for health and a vision
+           of creating a welcoming community where people can transform their
+            lives through fitness and well-being.
           </p>
         </div>
         <div className={styles.one_content2}>
           <h3>Story</h3>
           <p>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.point of
-            using Lorem Ipsum.
+          ApnaZYM' was founded with a deeply personal mission - 
+          to empower individuals in our community to take control
+           of their health and fitness, creating a welcoming space
+            where everyone feels like they belong on their journey to
+             better well-being.
           </p>
           <img src={photo2} alt="" />
         </div>
@@ -34,17 +36,16 @@ const Third = () => {
         <div className={styles.two_content}>
           <h3>Our Mission</h3>
           <p>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.point of
-            using Lorem Ipsum.
+          At 'ApnaZYM,' our mission is to inspire and guide individuals 
+          toward their best selves through fitness, community, and holistic well-being.
           </p>
         </div>
         <div className={styles.two_content2}>
           <h3>Our Value</h3>
           <p>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.point of
-            using Lorem Ipsum.
+          At 'ApnaZYM,' we are driven by the core value of fostering a 
+          supportive, inclusive, and results-driven environment that empowers
+           our members to achieve their fitness goals.
           </p>
         </div>
       </div>

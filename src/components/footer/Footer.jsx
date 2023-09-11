@@ -11,9 +11,9 @@ const Footer = () => {
         <h2>
           Follow me on
           <a
-            href="https://www.linkedin.com/in/the-mustafa-khaled/"
+            href="https://www.linkedin.com/in/tsrshiv/"
             target="_blank">
-            Linked In
+            Instagram
           </a>
         </h2>
       </div>
@@ -22,17 +22,17 @@ const Footer = () => {
           <div className={styles.logo_holder}>
             <img src={logoIcon} alt="Logo Icon" />
 
-            <h3>Strengthy</h3>
+            <h3>apnaZYM</h3>
           </div>
           <p>
-            It is a long established fact that a reader will be distracted by
-            the readable.
+            
+"Join ApnaZYM: Your Gateway to a Healthier You!
           </p>
           <div className={styles.info}>
             <span>Call :</span>
-            <p>+201151747091</p>
+            <p>+91-7357819021</p>
             <span>Email :</span>
-            <p>mustafakhaledinfo@gmail.com</p>
+            <p>shivendrav111111@gmail.com</p>
           </div>
         </div>
         <div>
@@ -52,11 +52,11 @@ const Footer = () => {
           <button>Subscribe</button>
           <div className={styles.footer_icons}>
             <a
-              href="https://www.linkedin.com/in/the-mustafa-khaled/"
+              href="https://www.linkedin.com/in/tsrshiv/"
               target="_blank">
               <i className="fa-brands fa-linkedin"></i>
             </a>
-            <a href="https://github.com/mustafa-khaled" target="_blank">
+            <a href="https://github.com/tsrshiv" target="_blank">
               <i className="fa-brands fa-github"></i>
             </a>
           </div>

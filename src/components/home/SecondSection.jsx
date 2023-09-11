@@ -20,21 +20,19 @@ const SecondSection = () => {
         <div>
           <img src={photo1} alt="women in gym" />
           <h3>Pilates Training</h3>
-          <p>Pilates offers numerous benefits, including improved posture, reduced risk of injury, increased muscular strength, and enhanced mind-body connection. </p>
           <Link to={"/yogaClass"}>Read More</Link>
         </div>
 
         <div>
           <img src={photo2} alt="women in gym" />
           <h3>Aerobic Training</h3>
-          <p>Aerobic training enhances the efficiency of the heart and lungs, boosts overall stamina, and burns calories, making it an effective way to manage weight and reduce the risk of chronic diseases like heart disease and diabetes. </p>
+
           <a href="#">Read More</a>
         </div>
 
         <div>
           <img src={photo3} alt="man in gym" />
           <h3>CrossFit Workout</h3>
-          <p>CrossFit workouts, often referred to as WODs (Workout of the Day), are known for their intensity and variety. Participants engage in activities like lifting weights, performing bodyweight exercises, and doing high-intensity interval training (HIIT) in a group setting under the guidance of a certified CrossFit coach. </p>
           <a href="#">Read More</a>
         </div>
       </div>

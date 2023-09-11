@@ -25,7 +25,7 @@ const FitnessTraining = () => {
           data-aos-easing="ease-in-sine">
           <img src={photo1} alt="women in gym" />
           <h3>Pilates Training</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+          
           <Link to={"/yogaClass"}>Read More</Link>
         </div>
 
@@ -35,7 +35,7 @@ const FitnessTraining = () => {
           data-aos-easing="ease-in-sine">
           <img src={photo2} alt="women in gym" />
           <h3>Aerobic Training</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+         
           <a href="#">Read More</a>
         </div>
 
@@ -45,7 +45,7 @@ const FitnessTraining = () => {
           data-aos-easing="ease-in-sine">
           <img src={photo3} alt="man in gym" />
           <h3>CrossFit Workout</h3>
-          <p>containing Lorem Ipsum passagesand more recently with </p>
+        
           <a href="#">Read More</a>
         </div>
       </div>

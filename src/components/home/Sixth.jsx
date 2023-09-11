@@ -116,7 +116,7 @@ const Sixth = () => {
               </div>
 
               <div className={styles.six_text}>
-                <h4>Nattasha</h4>
+                <h4>Shashank</h4>
                 <p>Athletics /Trainer</p>
                 <div className={styles.starts}>
                   <i className="fa-solid fa-star"></i>
@@ -126,9 +126,7 @@ const Sixth = () => {
                   <i className="fa-solid fa-star"></i>
                 </div>
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour
+                 I just want to say that this zym is best in this area.
                 </p>
               </div>
             </div>

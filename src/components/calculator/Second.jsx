@@ -41,9 +41,8 @@ const Second = () => {
         <p className="paragraph">Fill Details And Receive Email</p>
         <h2>Your BMI</h2>
         <p>
-          Overrideds on hanging fruits to identify ball park value added
-          activity to beta overrided the digitals divided with additionals
-          clickthroughs from line.
+        BMI, or Body Mass Index, is a simple yet valuable tool that helps assess your body's weight in
+         relation to your height, providing insights into your overall health.
         </p>
         <form>
           <div>
